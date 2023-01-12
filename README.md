@@ -24,7 +24,7 @@ Olá, Sou Jean, estudante de Desenvolvimento de Sistemas!
 
 
 <!--- Stats --->
-
+#
 
 <img align="left" alt="GitHub" style="padding-right:30px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeanziin&show_icons=true&theme=aura&hide_border=true" />
 

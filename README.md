@@ -29,12 +29,15 @@ Olá, Sou Jean, estudante de Desenvolvimento de Sistemas!
 <!--- Stats --->
 #
 
-  <div align="center">
+  <div align="left">
 <img align="left" alt="GitHub" style="padding-right:30px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeanziin&show_icons=true&theme=aura&hide_border=true" />
-
+</div>
+  
+  <div align="right">
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jeanziin&layout=compact)](https://github.com/Jeanziin/github-readme-stats) 
-    
   </div>
+  
+  
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
 

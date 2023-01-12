@@ -12,7 +12,7 @@ Olá, Sou Jean, estudante de Desenvolvimento de Sistemas!
     <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    </div>
 <!--- Stats --->
-#
+
 
 <img align="left" alt="GitHub" style="padding-right:30px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeanziin&show_icons=true&theme=aura&hide_border=true" />
 

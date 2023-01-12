@@ -2,6 +2,8 @@
 Olá, Sou Jean, estudante de Desenvolvimento de Sistemas!
 
 # 💻 Best Technologies:
+<br>
+
 <!--- JavaScript --->
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40px" style="padding-right:10px; padding-left:10px;"/></a>

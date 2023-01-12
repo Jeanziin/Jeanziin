@@ -2,15 +2,27 @@
 Olá, Sou Jean, estudante de Desenvolvimento de Sistemas!
 
 # 💻 Best Technologies:
-<br>
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <img align="center" height="30" width="40" alt="php-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   </div>
+<!--- JavaScript --->
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
+
+<!--- Java --->
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
+
+<!--- HTML --->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
+
+<!--- CSS --->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
+
+<!--- PHP --->
+<a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="CSS" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
+
+
 <!--- Stats --->
 
 

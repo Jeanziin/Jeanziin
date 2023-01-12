@@ -4,6 +4,7 @@ Olá, Sou Jean, estudante de Desenvolvimento de Sistemas!
 # 💻 Best Technologies:
 <br>
 
+<div align="center">
 <!--- JavaScript --->
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
 <img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
@@ -23,14 +24,17 @@ Olá, Sou Jean, estudante de Desenvolvimento de Sistemas!
 <!--- PHP --->
 <a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer">
 <img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="CSS" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
-
+</div>
 
 <!--- Stats --->
 #
 
+  <div align="center">
 <img align="left" alt="GitHub" style="padding-right:30px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeanziin&show_icons=true&theme=aura&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jeanziin&layout=compact)](https://github.com/Jeanziin/github-readme-stats) 
+    
+  </div>
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
 

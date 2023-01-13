@@ -45,4 +45,3 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
 
 
-<img align="right" alt="GitHub" width="150px" src="https://visitcount.itsvg.in/api?id=jeanziin&icon=6&color=12&style=black" />

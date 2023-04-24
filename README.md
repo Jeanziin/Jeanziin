@@ -23,13 +23,6 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
 
-<!--- HTML --->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
-
-<!--- CSS --->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
 
 <!--- PHP --->
 <a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer">

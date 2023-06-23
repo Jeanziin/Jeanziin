@@ -19,6 +19,15 @@
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
 <img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="JavaScript" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
 
+<!-- MongoDB -->
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+<img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
+
+<!-- MySQL -->
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+<img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
+
+
 <!--- Java --->
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40px" style="padding-right:10px; padding-left:10px;"/></a>

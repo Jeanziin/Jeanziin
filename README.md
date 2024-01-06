@@ -43,6 +43,10 @@
 <img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="CSS" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
 </div>
 
+<!--- Python --->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="CSS" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
+
 <!--- Stats --->
 #
 

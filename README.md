@@ -15,13 +15,9 @@
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
 <img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
 
-<!-- MongoDB -->
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-<img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
-
-<!-- MySQL -->
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-<img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
+<!--- Python --->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="CSS" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
 
 
 <!--- Java --->
@@ -39,9 +35,6 @@
 <img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="CSS" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
 </div>
 
-<!--- Python --->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="CSS" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
 
 <!--- Stats --->
 #
